@@ -1,0 +1,102 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servers_covidsql_name": {
+            "value": null
+        },
+        "sites_encuestacovid_param_name": {
+            "value": null
+        },
+        "sites_vigilanciacovidback_name": {
+            "value": null
+        },
+        "vaults_VigilanciaKeyVault_name": {
+            "value": null
+        },
+        "serverfarms_sp_vigilanciacovid_name": {
+            "value": null
+        },
+        "sites_encuestavigilanciacovid19_name": {
+            "value": null
+        },
+        "virtualMachines_ins_sonarqube_name": {
+            "value": null
+        },
+        "sites_dev_encuestavigilanciacovid19_name": {
+            "value": null
+        },
+        "databaseAccounts_app_covid_19_name": {
+            "value": null
+        },
+        "serverfarms_sp_vigilanciacovidbackend_name": {
+            "value": null
+        },
+        "frontdoors_encuestavigilanciacovid_name": {
+            "value": null
+        },
+        "networkInterfaces_ins_sonarqube797_name": {
+            "value": null
+        },
+        "publicIPAddresses_ins_sonarqube_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_vn_vigilanciacovid_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rgvigilanciacovid_930d_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rsvigilanciacovid_9d4b_name": {
+            "value": null
+        },
+        "storageAccounts_rgvigilanciacoviddiag_name": {
+            "value": null
+        },
+        "networkSecurityGroups_ins_sonarqube_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_rg_vigilanciacovid_vnet_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_wafvigilanciacovid_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___af_covid_19_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___coronav_api_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___af_covid_19_c_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___af_vigilanciacovid_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___ai_vigilanciacovid_name": {
+            "value": null
+        },
+        "components_af_covid_19_externalid": {
+            "value": null
+        },
+        "components_af_covid_19_c_externalid": {
+            "value": null
+        },
+        "components_af_vigilanciacovid_externalid": {
+            "value": null
+        },
+        "components_ai_vigilanciacovid_externalid": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "components_coronav_api_externalid": {
+            "value": null
+        }
+    }
+}
